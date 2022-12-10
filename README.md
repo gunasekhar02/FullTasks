@@ -1,4 +1,4 @@
-# FullTasksDay2
+# FullTasksDay
 ##keywords 
 
-things that i learnt today are applied and implimented here!
+things that i learnt were applied and implimented here!
